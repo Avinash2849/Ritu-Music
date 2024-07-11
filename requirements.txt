@@ -1,5 +1,5 @@
 aiofiles
-aiohttp
+aiohttp==3.8.1
 asyncio
 beautifulsoup4
 dnspython
@@ -23,3 +23,5 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
+Flask==2.2.2
+gunicorn==20.1.0
